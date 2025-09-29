@@ -1,5 +1,9 @@
 GRUPO: Cayo Luiz, Eduardo Baptista, Matheus Ferreira e Victor Sette 
 
+Link dos Slides
+
+https://www.canva.com/design/DAG0UCn4784/-pXglYzCB9KKMDSSxH8sXQ/edit?utm_content=DAG0UCn4784&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Introdução
 
 Este estudo analisou padrões em filmes de sucesso no IMDb, buscando entender como características como gênero, avaliação, número de votos e classificação indicativa se relacionam com a popularidade. A questão central foi identificar se esses fatores ajudam a explicar o que torna um filme mais bem recebido pelo público.
